@@ -1,0 +1,34 @@
+.features .glyphicon {
+  font-size: 32px;
+}
+
+blockquote {
+  background-color: #444444;
+  border-left: none;
+}
+
+blockquote p {
+  color: #E1E1E1;
+  font-size: 14px;
+}
+
+blockquote footer {
+  color: #BDBDBD;
+  font-size: 12px;
+}
+
+.footer {
+  background-color: #333333;
+}
+
+.footer h4, p {
+  color: #BDBDBD;
+}
+
+.list-unstyled {
+  color: #BDBDBD;
+}
+
+#header-img {
+  width: 100%;
+}
